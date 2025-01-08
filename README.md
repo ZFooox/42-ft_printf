@@ -43,3 +43,11 @@ int main()
     ft_printf("Number: %d, Char: %c, String: %s, Pointer: %p\n", nb, c, str, &str);
     return 0;
 }
+```
+## Contributing 🤝
+
+I know that my ft_printf is not the most optimized, nor the shortest. But this is how I was able to understand the subject well. Because each step is well developed and everything is well structured for my understanding.
+
+But if you want to contribute to this project, feel free to create a pull request. All contributions are welcome! 🎉
+
+Thank you for your interest in my Get Next Line project. If you have any questions or suggestions, feel free to open an issue or contact me! 😊
