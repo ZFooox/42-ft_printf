@@ -46,7 +46,7 @@ int main()
 ```
 ## Contributing 🤝
 
-I know that my ft_printf is not the most optimized, nor the shortest. But this is how I was able to understand the subject well. Because each step is well developed and everything is well structured for my understanding.
+I know that my ft_printf is not the most optimized and not the shortest. But this is how I was able to understand the subject well. Because each step is well developed and everything is well structured for my understanding.
 
 But if you want to contribute to this project, feel free to create a pull request. All contributions are welcome! 🎉
 
